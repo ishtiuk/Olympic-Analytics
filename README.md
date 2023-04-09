@@ -6,7 +6,6 @@ Olympic Analytics is a web app built with Streamlit that provides insights into 
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
@@ -32,9 +31,6 @@ pip install -r requirements.txt
 
 This will launch the app in your default web browser, allowing you to explore the historical trends and insights of the Olympic Games.
 
-## Contributing
-
-Contributions are welcome! Please refer to CONTRIBUTING.md for more information.
 
 ## License
 
