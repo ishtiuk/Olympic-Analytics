@@ -21,14 +21,6 @@ pip install -r requirements.txt
 
 
 
-## Usage
-
-To run Olympic Analytics, navigate to the cloned directory and run the following command:
-
-pip install -r requirements.txt
-
-
-
 This will launch the app in your default web browser, allowing you to explore the historical trends and insights of the Olympic Games.
 
 
